@@ -1,0 +1,156 @@
+FIRST VERSION. NO ARRAY TO TRACK NON-DIVISIBLE MULTIPLES
+billb p4l1 $ go test -bench=. -v
+=== RUN   TestIsPerfect
+--- PASS: TestIsPerfect (0.01s)
+    perfect_test.go:24: Run IsPerfect tests
+    perfect_test.go:27: IsPerfect(10): result: false, factors: [1 2 5]
+    perfect_test.go:27: IsPerfect(6): result: true, factors: [1 2 3]
+    perfect_test.go:27: IsPerfect(28): result: true, factors: [1 2 14 4 7]
+    perfect_test.go:27: IsPerfect(496): result: true, factors: [1 2 248 4 124 8 62 16 31]
+    perfect_test.go:27: IsPerfect(498): result: false, factors: [1 2 249 3 166 6 83]
+    perfect_test.go:27: IsPerfect(8128): result: true, factors: [1 2 4064 4 2032 8 1016 16 508 32 254 64 127]
+    perfect_test.go:27: IsPerfect(137438691328): result: true, factors: [1 2 68719345664 4 34359672832 8 17179836416 16 8589918208 32 4294959104 64 2147479552 128 1073739776 256 536869888 512 268434944 1024 134217472 2048 67108736 4096 33554368 8192 16777184 16384 8388592 32768 4194296 65536 2097148 131072 1048574 262144 524287]
+    perfect_test.go:27: IsPerfect(137438691329): result: false, factors: [1]
+    perfect_test.go:27: IsPerfect(137438691330): result: false, factors: [1 2 68719345665 3 45812897110 5 27487738266 6 22906448555 10 13743869133 15 9162579422 30 4581289711 79 1739730270 158 869865135 227 605456790 237 579910090 395 347946054 454 302728395 474 289955045 681 201818930 790 173973027 1135 121091358 1185 115982018 1362 100909465 2270 60545679 2370 57991009 3405 40363786 6810 20181893 17933 7664010 35866 3832005 53799 2554670 89665 1532802 107598 1277335 179330 766401 255467 537990 268995 510934]
+goos: darwin
+goarch: amd64
+pkg: p4l1
+BenchmarkIsPerfect1-8            1000000              1069 ns/op
+--- BENCH: BenchmarkIsPerfect1-8
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 8128
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 8128
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 8128
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 8128
+BenchmarkIsPerfect2-8              20505             55484 ns/op
+--- BENCH: BenchmarkIsPerfect2-8
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 33550336
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 33550336
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 33550336
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 33550336
+BenchmarkIsPerfect3-8                319           3492454 ns/op
+--- BENCH: BenchmarkIsPerfect3-8
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 137438691328
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 137438691328
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 137438691328
+BenchmarkIsPerfect4-8                343           3525605 ns/op
+--- BENCH: BenchmarkIsPerfect4-8
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 137438691329
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 137438691329
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 137438691329
+BenchmarkIsPerfect5-8                340           3534853 ns/op
+--- BENCH: BenchmarkIsPerfect5-8
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 137438691330
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 137438691330
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 137438691330
+PASS
+ok      p4l1    7.510s
+billb p4l1 $ 
+
+SECOND VERSION, CHECKING FOR DIVISIBITY
+billb p4l1 $ go test -bench=. -v
+=== RUN   TestIsPerfect
+--- PASS: TestIsPerfect (0.01s)
+    perfect_test.go:24: Run IsPerfect tests
+    perfect_test.go:27: IsPerfect(10): result: false, factors: [1 2 5]
+    perfect_test.go:27: IsPerfect(6): result: true, factors: [1 2 3]
+    perfect_test.go:27: IsPerfect(28): result: true, factors: [1 2 14 4 7]
+    perfect_test.go:27: IsPerfect(496): result: true, factors: [1 2 248 4 124 8 62 16 31]
+    perfect_test.go:27: IsPerfect(498): result: false, factors: [1 2 249 3 166 6 83]
+    perfect_test.go:27: IsPerfect(8128): result: true, factors: [1 2 4064 4 2032 8 1016 16 508 32 254 64 127]
+    perfect_test.go:27: IsPerfect(137438691328): result: true, factors: [1 2 68719345664 4 34359672832 8 17179836416 16 8589918208 32 4294959104 64 2147479552 128 1073739776 256 536869888 512 268434944 1024 134217472 2048 67108736 4096 33554368 8192 16777184 16384 8388592 32768 4194296 65536 2097148 131072 1048574 262144 524287]
+    perfect_test.go:27: IsPerfect(137438691329): result: false, factors: [1]
+    perfect_test.go:27: IsPerfect(137438691330): result: false, factors: [1 2 68719345665 3 45812897110 5 27487738266 6 22906448555 10 13743869133 15 9162579422 30 4581289711 79 1739730270 158 869865135 227 605456790 237 579910090 395 347946054 454 302728395 474 289955045 681 201818930 790 173973027 1135 121091358 1185 115982018 1362 100909465 2270 60545679 2370 57991009 3405 40363786 6810 20181893 17933 7664010 35866 3832005 53799 2554670 89665 1532802 107598 1277335 179330 766401 255467 537990 268995 510934]
+goos: darwin
+goarch: amd64
+pkg: p4l1
+BenchmarkIsPerfect1-8            1620480               759 ns/op
+--- BENCH: BenchmarkIsPerfect1-8
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 8128
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 8128
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 8128
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 8128
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 8128
+BenchmarkIsPerfect2-8              46064             25308 ns/op
+--- BENCH: BenchmarkIsPerfect2-8
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 33550336
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 33550336
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 33550336
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 33550336
+BenchmarkIsPerfect3-8                643           1898217 ns/op
+--- BENCH: BenchmarkIsPerfect3-8
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 137438691328
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 137438691328
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 137438691328
+BenchmarkIsPerfect4-8                606           1997123 ns/op
+--- BENCH: BenchmarkIsPerfect4-8
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 137438691329
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 137438691329
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 137438691329
+BenchmarkIsPerfect5-8                628           1866724 ns/op
+--- BENCH: BenchmarkIsPerfect5-8
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 137438691330
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 137438691330
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 137438691330
+PASS
+ok      p4l1    7.674s
+billb p4l1 $ 
+
+IS PERFECT STOPS WHEN SUM > N
+billb p4l1 $ go test -bench=. -v
+=== RUN   TestIsPerfect
+--- PASS: TestIsPerfect (0.01s)
+    perfect_test.go:24: Run IsPerfect tests
+    perfect_test.go:27: IsPerfect(10): result: false, factors: [1 2 5]
+    perfect_test.go:27: IsPerfect(6): result: true, factors: [1 2 3]
+    perfect_test.go:27: IsPerfect(28): result: true, factors: [1 2 14 4 7]
+    perfect_test.go:27: IsPerfect(496): result: true, factors: [1 2 248 4 124 8 62 16 31]
+    perfect_test.go:27: IsPerfect(498): result: false, factors: [1 2 249 3 166 6 83]
+    perfect_test.go:27: IsPerfect(8128): result: true, factors: [1 2 4064 4 2032 8 1016 16 508 32 254 64 127]
+    perfect_test.go:27: IsPerfect(137438691328): result: true, factors: [1 2 68719345664 4 34359672832 8 17179836416 16 8589918208 32 4294959104 64 2147479552 128 1073739776 256 536869888 512 268434944 1024 134217472 2048 67108736 4096 33554368 8192 16777184 16384 8388592 32768 4194296 65536 2097148 131072 1048574 262144 524287]
+    perfect_test.go:27: IsPerfect(137438691329): result: false, factors: [1]
+    perfect_test.go:27: IsPerfect(137438691330): result: false, factors: [1 2 68719345665 3 45812897110 5 27487738266]
+goos: darwin
+goarch: amd64
+pkg: p4l1
+BenchmarkIsPerfect1-8            1520042               844 ns/op
+--- BENCH: BenchmarkIsPerfect1-8
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 8128
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 8128
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 8128
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 8128
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 8128
+BenchmarkIsPerfect2-8              35359             34089 ns/op
+--- BENCH: BenchmarkIsPerfect2-8
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 33550336
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 33550336
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 33550336
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 33550336
+BenchmarkIsPerfect3-8                475           2463174 ns/op
+--- BENCH: BenchmarkIsPerfect3-8
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 137438691328
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 137438691328
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 137438691328
+BenchmarkIsPerfect4-8                493           2320220 ns/op
+--- BENCH: BenchmarkIsPerfect4-8
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 137438691329
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 137438691329
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 137438691329
+BenchmarkIsPerfect5-8              10000            108075 ns/op
+--- BENCH: BenchmarkIsPerfect5-8
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 137438691330
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 137438691330
+    perfectbench_test.go:11: Run IsPerfect benchmark. n= 137438691330
+PASS
+ok      p4l1    7.777s
+billb p4l1 $ 
+
+COMPARISIONS
+
+Test                    V1            V2              V3
+BenchmarkIsPerfect1-8   1069 ns/op    759 ns/op      844 ns/op
+BenchmarkIsPerfect2-8   55484 ns/op   25308 ns/op    34089 ns/op
+BenchmarkIsPerfect3-8   3492454 ns/op 1898217 ns/op  2463174 ns/op
+BenchmarkIsPerfect4-8   3525605 ns/op 1997123 ns/op  2320220 ns/op
+BenchmarkIsPerfect5-8   3534853 ns/op 1866724 ns/op  108075 ns/op
+
+
