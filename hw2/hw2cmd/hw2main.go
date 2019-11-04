@@ -9,5 +9,6 @@ func main() {
 	fmt.Println("Samples for Stepik String Functions Assignment ")
 
 	fmt.Println(hw2.ClumpFinding("ACGTACGT", 1, 5, 2))
+	fmt.Println(hw2.SkewArray("TAAAGACTGCCGAGAGGCCAACACGAGTGCTAGAACGAGGGGCGTAAACGCGGGTCCGAT"))
 
 }
