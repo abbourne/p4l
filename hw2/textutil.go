@@ -10,6 +10,7 @@ package hw2
 import (
 	"math"
 	"strings"
+	"unicode"
 )
 
 // PatternMatching returns a slice of integers indicating the starting position of each occurrence of pattern in text
@@ -94,7 +95,7 @@ func FrequentWords(text string, k int) (freqWords []string) {
 }
 
 // Reverse takes an ASCII text string and reverses it.
-// Note that this simplistic version will *not* work for strings wihh Unicode characters!
+// Note that this simplistic version will *not* work for strings with Unicode characters!
 func Reverse(text string) string {
 	text2 := ""
 	for i := len(text) - 1; i >= 0; i-- {
@@ -103,9 +104,26 @@ func Reverse(text string) string {
 	return text2
 }
 
-// Complement  takes a DNA fragment as a text string and returns its complement
+// ComplementChar take a single character representing a nucleotide (ATGC) and
+// returns it's complement. Any character other than ATGC is returned unchanged
+func ComplementChar(char rune) rune {
+	switch unicode.ToUpper(char) {
+	case 'A':
+		return 'T'
+	case 'G':
+		return 'C'
+	case 'C':
+		return 'G'
+	case 'T':
+		return 'A'
+	default:
+		return char
+	}
+}
+
+// ComplementOld  takes a DNA fragment as a text string and returns its complement
 // The input should really only consist of ATCG characters. Other characters are passed unchanged
-func Complement(pattern string) string {
+func ComplementOld(pattern string) string {
 	complements := map[string]string{"A": "T", "G": "C", "C": "G", "T": "A"}
 	pattern = strings.ToUpper(pattern)
 	converted := ""
@@ -115,6 +133,18 @@ func Complement(pattern string) string {
 		} else {
 			converted += string(pattern[i])
 		}
+	}
+
+	return converted
+}
+
+// Complement  takes a DNA fragment as a text string and returns its complement
+// The input should really only consist of ATCG characters. Other characters are passed unchanged
+func Complement(pattern string) string {
+
+	converted := ""
+	for _, char := range pattern {
+		converted += string(ComplementChar(char))
 	}
 
 	return converted
@@ -130,7 +160,7 @@ func ReverseComplement(pattern string) string {
 func ClumpFinding(genome string, k, L, t int) []string {
 	resultMap := map[string]int{}
 
-	// Slide a windoe of length L through the genome
+	// Slide a window of length L through the genome
 	var windowRes map[string]int
 	for windowPos := 0; windowPos < len(genome)-L+1; windowPos++ {
 		windowRes = FrequencyMap(genome[windowPos:windowPos+L], k)
@@ -182,7 +212,7 @@ func Reduce(vs []int, f func(int, int) int) int {
 	return accum
 }
 
-// Find returns a slice of all positions of  val in the slice vs. If there are no occances, an empty slice is returned.
+// Find returns a slice of all positions of  val in the slice vs. If there are no occurrences, an empty slice is returned.
 func Find(vs []int, val int) []int {
 	var result = []int{}
 	for i, n := range vs {
