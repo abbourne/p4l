@@ -122,7 +122,7 @@ func main() {
 	fmt.Println("ReversedP:", reverseP(s2))
 	fmt.Println("ReversedB:", reverseB(s2))
 
-	s4 := (string('⌘') + string('A') + string('𐅻')) // encodes rune characters into UTF-8 strings
+	s4 := string('⌘') + string('A') + string('𐅻') // encodes rune characters into UTF-8 strings
 	fmt.Println(s4)
 	s4runes := []rune(s4)     // decodes UTF-8 string into a slice of runes
 	s4UTF8 := string(s4runes) // encodes a slice of runes back into a UTF-8 string
