@@ -27,7 +27,7 @@ func IsPrime(p int) bool {
 	return true
 }
 
-// Min returnd the minimum of two ints
+// Min returns the minimum of two ints
 func Min(i, j int) int {
 	if i < j {
 		return i
@@ -37,5 +37,5 @@ func Min(i, j int) int {
 
 // MinArray takes a []int and return the minimum element of the slice
 func MinArray(js []int) int {
-	return Reduce(js, Min)
+	return ReduceInt(js, Min)
 }

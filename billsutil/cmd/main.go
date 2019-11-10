@@ -1,8 +1,8 @@
 package main
 
 import (
-	"billsutil"
 	"fmt"
+	"p4l/billsutil"
 )
 
 func min(i, j int) int {
@@ -12,12 +12,27 @@ func min(i, j int) int {
 	return j
 }
 
+func max(i, j int) int {
+	if i > j {
+		return i
+	}
+	return j
+}
+
 func minArray(js []int) int {
-	return billsutil.Reduce(js, min)
+	return billsutil.ReduceInt(js, min)
 }
 
 func main() {
-	fmt.Println("Hello World")
-	fmt.Println(minArray([]int{42, 53, 9, 24, 38}))
+	js := []int{42, 53, 9, 99, 24, 38, 0, -10, 2}
+	fmt.Printf("Find Minimum and Maximum of slice %v \n", js)
+	fmt.Println("The maximum is: ", billsutil.ReduceInt(js, max))
+	fmt.Println("The minimum is: ", billsutil.ReduceInt(js, min))
 
+	fmt.Println("The minimum is: ", billsutil.ReduceInt(js, func(i, j int) int {
+		if i < j {
+			return i
+		}
+		return j
+	}))
 }

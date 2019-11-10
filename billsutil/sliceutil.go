@@ -7,8 +7,8 @@ package billsutil
    See: https://gobyexample.com/collection-functions for good examples
 */
 
-// Map returns a new slice containing the results of applying the function f to each string in the original slice.
-func Map(vs []int, f func(int) int) []int {
+// MapInt returns a new slice containing the results of applying the function f to each string in the original slice.
+func MapInt(vs []int, f func(int) int) []int {
 	vsm := make([]int, len(vs))
 	for i, v := range vs {
 		vsm[i] = f(v)
@@ -16,9 +16,15 @@ func Map(vs []int, f func(int) int) []int {
 	return vsm
 }
 
-// Reduce returns the result of a pairwise application of the function through the slice
+// ReduceInt returns the result of a pairwise application of the function through the slice
 // The input slice must be at least length 2
-func Reduce(vs []int, f func(int, int) int) int {
+func ReduceInt(vs []int, f func(int, int) int) int {
+	if len(vs) < 1 {
+		panic("Slice must be at least 1 element long")
+	}
+	if len(vs) == 1 {
+		return vs[0] // This may be wrong! It's up to the caller to decide!
+	}
 	accum := vs[0]
 	for i := 1; i < len(vs); i++ {
 		accum = f(accum, vs[i])
@@ -26,9 +32,9 @@ func Reduce(vs []int, f func(int, int) int) int {
 	return accum
 }
 
-// All returns true if all of the ints in the slice satisfy the predicate f.
+// AllInt returns true if all of the ints in the slice satisfy the predicate f.
 // The slice must be non empty
-func All(vs []int, f func(int) bool) bool {
+func AllInt(vs []int, f func(int) bool) bool {
 	for _, v := range vs {
 		if !f(v) {
 			return false
