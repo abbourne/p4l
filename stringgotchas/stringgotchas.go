@@ -44,7 +44,7 @@ func reverseRuneB(s string) string {
 }
 
 // This version works for runes and is very efficient.
-// W// We create the input string into an array of runes (which is mutable) and do the reverse in place
+// W// We convert the input string into an array of runes (which is mutable) and do the reverse in place
 // We index from the front and the back, replace the 2 characters, then move 1 step toward the
 // middle of the array from both ends
 // This is the implementation of the stringutil.Reverse example at https://github.com/golang/example
