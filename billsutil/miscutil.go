@@ -1,7 +1,6 @@
 package billsutil
 
 import (
-	"log"
 	"math"
 	"time"
 )
@@ -12,9 +11,18 @@ import (
 //			defer TimeIt(time.Now(), "myFunction")
 //			// rest of code goes here
 //		}
-func TimeIt(start time.Time, name string) {
+func TimeIt(start time.Time, name string) time.Duration {
 	elapsed := time.Since(start)
-	log.Printf("%s took %s", name, elapsed)
+	//log.Printf("%s took %s", name, elapsed)
+	return elapsed
+}
+
+// TimedFunc takes any finction that does not return a value and times it
+// The time taken is returned as a time.Duration
+func TimedFunc(fn func()) time.Duration {
+	start := time.Now()
+	fn()
+	return time.Since(start)
 }
 
 // IsPrime is an inefficient test for whether an integer is prime or not
@@ -27,9 +35,23 @@ func IsPrime(p int) bool {
 	return true
 }
 
+// Abs returns the absolute value of an int
+func Abs(n int) int {
+	y := n >> 63
+	return (n ^ y) - y
+}
+
 // Min returns the minimum of two ints
 func Min(i, j int) int {
 	if i < j {
+		return i
+	}
+	return j
+}
+
+// Max returns the maximum of two ints
+func Max(i, j int) int {
+	if i > j {
 		return i
 	}
 	return j

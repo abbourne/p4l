@@ -1,8 +1,8 @@
-package hw2_test
+package hw1b_test
 
 import (
 	"math"
-	"p4l/hw2"
+	"p4l/hw1b"
 	"testing"
 )
 
@@ -33,7 +33,7 @@ var testMaxDictData = []struct {
 func TestPatternCount(t *testing.T) {
 	t.Log("Run PatternCount tests")
 	for _, tc := range testPatternCountData {
-		count := hw2.PatternCount(tc.pattern, tc.text)
+		count := hw1b.PatternCount(tc.pattern, tc.text)
 		t.Logf("PatternCount(%v, %v): result: count %d", tc.pattern, tc.text, count)
 		if count != tc.resCount {
 			t.Errorf("Result not equal to expected! PatternCount(%v, %v): result: %d", tc.pattern, tc.text, count)
@@ -46,7 +46,7 @@ func TestPatternCount(t *testing.T) {
 func TestMaxDict(t *testing.T) {
 	t.Log("Run MaxDict tests")
 	for _, tc := range testMaxDictData {
-		result := hw2.MaxDict(tc.testData)
+		result := hw1b.MaxDict(tc.testData)
 		t.Logf("MaxDixt(%v): result: %d", tc.testData, result)
 		if result != tc.result {
 			t.Errorf("Result not equal to expected! PatternCount(%v): result: %d", tc.testData, result)

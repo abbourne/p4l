@@ -1,11 +1,11 @@
-// Package hw2 contains the answers to Programming for Lovers Homework 2 exercises.
+// Package hw1b contains the answers to Programming for Lovers Homework 2 exercises.
 // These exercises can be found on Stepik at https://stepik.org/course/59611/syllabus
 // Definitions:
 //  a DNA string or pattern is made up of the characters A, C, G, T representing each nucleotide
 //  a k-mer is simply  DNA fragment of length k (i.e a substring)
 //  an (L, t)-clump: given integers L and t, a string Pattern forms an (L, t)-clump inside a (larger)
 //  string Genome if there is an interval of Genome of length L in which Pattern appears at least t times.
-package hw2
+package hw1b
 
 import (
 	"math"
