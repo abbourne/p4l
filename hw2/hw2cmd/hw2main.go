@@ -62,4 +62,21 @@ func main() {
 		fmt.Printf("Low: %10d, High: %10d  Probability: %4f \n",
 			t.low, t.high, t.prob)
 	}
+
+	fmt.Println("\n Has Repeat tests: ")
+	fmt.Println(hw2.HasRepeat([]int{1, 2, 3, 4, 5}))
+	fmt.Println(hw2.HasRepeat([]int{1, 2, 3, 4, 1}))
+	fmt.Println(hw2.HasRepeat([]int{1, 2, 3, 4, 4}))
+	fmt.Println(hw2.HasRepeat([]int{1, 2, 3, 2, 4}))
+	fmt.Println(hw2.HasRepeat([]int{1}))
+	fmt.Println(hw2.HasRepeat([]int{}))
+
+	fmt.Println("\n CountNumDigits: ")
+	fmt.Println(hw2.CountNumDigits(0))
+	fmt.Println(hw2.CountNumDigits(1))
+	fmt.Println(hw2.CountNumDigits(-1))
+	fmt.Println(hw2.CountNumDigits(42))
+	fmt.Println(hw2.CountNumDigits(-42))
+	fmt.Println(hw2.CountNumDigits(12345))
+
 }
