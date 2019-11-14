@@ -63,20 +63,11 @@ func main() {
 			t.low, t.high, t.prob)
 	}
 
-	fmt.Println("\n Has Repeat tests: ")
-	fmt.Println(hw2.HasRepeat([]int{1, 2, 3, 4, 5}))
-	fmt.Println(hw2.HasRepeat([]int{1, 2, 3, 4, 1}))
-	fmt.Println(hw2.HasRepeat([]int{1, 2, 3, 4, 4}))
-	fmt.Println(hw2.HasRepeat([]int{1, 2, 3, 2, 4}))
-	fmt.Println(hw2.HasRepeat([]int{1}))
-	fmt.Println(hw2.HasRepeat([]int{}))
-
-	fmt.Println("\n CountNumDigits: ")
-	fmt.Println(hw2.CountNumDigits(0))
-	fmt.Println(hw2.CountNumDigits(1))
-	fmt.Println(hw2.CountNumDigits(-1))
-	fmt.Println(hw2.CountNumDigits(42))
-	fmt.Println(hw2.CountNumDigits(-42))
-	fmt.Println(hw2.CountNumDigits(12345))
+	numTrials = 1000
+	BdayTrialData := []int{5, 10, 15, 20, 23, 25, 30, 35, 40, 45, 50, 55, 60}
+	fmt.Println("\n Birthday Paradox: ")
+	for _, numPeople := range BdayTrialData {
+		fmt.Printf("For %3d people, same birthday probability is %4f \n", numPeople, hw2.BirthdayParadox(numPeople, numTrials))
+	}
 
 }

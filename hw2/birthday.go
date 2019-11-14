@@ -1,5 +1,7 @@
 package hw2
 
+import "math/rand"
+
 // HasRepeat returns true if any of the elements in the slice are the same
 func HasRepeat(is []int) bool {
 	for i := 0; i < len(is)-1; i++ {
@@ -14,3 +16,19 @@ func HasRepeat(is []int) bool {
 	return false
 }
 
+// BirthdayParadox takes a number of people numPeople, a number of trials numTrials, and returns the %
+// of time that at least 2 people have the same birthday
+// See https://en.wikipedia.org/wiki/Birthday_problem
+func BirthdayParadox(numPeople, numTrials int) float64 {
+	sameBdayCnt := 0
+	for trial := 0; trial < numTrials; trial++ {
+		var bdays = []int{}
+		for pers := 0; pers < numPeople; pers++ {
+			bdays = append(bdays, rand.Intn(365)+1)
+		}
+		if HasRepeat(bdays) {
+			sameBdayCnt++
+		}
+	}
+	return float64(sameBdayCnt) / float64(numTrials)
+}
