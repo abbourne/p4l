@@ -2,14 +2,6 @@ package hw2
 
 import "math/rand"
 
-// HasRepeat returns true if any of the elements in the slice are the same
-func HasRepeat(is []int) bool {
-	if ComputePeriodLength(is) == 0 {
-		return false
-	}
-	return true
-}
-
 // BirthdayParadox takes a number of people numPeople, a number of trials numTrials, and returns the %
 // of time that at least 2 people have the same birthday
 // See https://en.wikipedia.org/wiki/Birthday_problem
