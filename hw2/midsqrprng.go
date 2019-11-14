@@ -1,6 +1,7 @@
 package hw2
 
 import (
+	"p4l/billsutil"
 	"strconv"
 	"strings"
 )
@@ -44,22 +45,30 @@ func Contains(is []int, j int) bool {
 	return false
 }
 
-// CountNumDigits Take an integer and counts the number of digits. It ignores any minus sign
-// An eklegant 1 line solution, but very inefficient!
-func CountNumDigits(i int) int {
+// CountNumDigitss Take an integer and counts the number of digits. It ignores any minus sign
+// An elegant 1 line solution, but very inefficient!
+func CountNumDigitss(i int) int {
 	return len(strings.Trim(strconv.Itoa(i), "-"))
 }
 
-// TakeMiddlen Takes the middle n digits of val.
-func TakeMiddlen(val, n int) int {
+// TakeMiddlens Takes the middle n digits of val.
+// We do the manipulation with a string
+func TakeMiddlens(val, n int) int {
 	vals := strconv.Itoa(val)
 	if n < 1 {
 		panic("must take 1 or more digits")
 	}
-	//if n is odd, val must have an odd number of digits}
-	if len(vals)%n != 0 {
-		vals = "0" + vals
+	//if n is odd, val must have an odd number of digits. If n is even, lenVal must be even
+	if n%2 == 0 {
+		if len(vals)%2 == 1 {
+			vals = "0" + vals
+		}
+	} else {
+		if len(vals)%2 == 0 {
+			vals = "0" + vals
+		}
 	}
+
 	// pad with leading 0s if needed
 	if pad := n - len(vals); pad > 0 {
 		vals = strings.Repeat("0", pad) + vals
@@ -72,17 +81,58 @@ func TakeMiddlen(val, n int) int {
 	return res
 }
 
+// CountNumDigits Take an integer and counts the number of digits. It ignores any minus sign
+func CountNumDigits(i int) int {
+	i = billsutil.Abs(i)
+	if i == 0 {
+		return 1
+	}
+	cnt := 0
+	for ; i > 0; cnt++ {
+		i = i / 10
+	}
+	return cnt
+}
+
+// Pow10 returns an int of 10^i
+func Pow10(i int) int {
+	res := 1
+	for ; i >= 1; i-- {
+		res *= 10
+	}
+	return res
+}
+
+// TakeMiddlen Takes the middle n digits of val.
+func TakeMiddlen(val, n int) int {
+	if n < 1 {
+		panic("must take 1 or more digits")
+	}
+	lenVal := CountNumDigits(val)
+
+	//if n is odd, val must have an odd number of digits. If n is even, lenVal must be even
+	if n%2 == 0 {
+		if lenVal%2 != 0 {
+			lenVal++
+		}
+	} else {
+		if lenVal%2 == 0 {
+			lenVal++
+		}
+	}
+	trim := (lenVal - n) / 2
+	val = val % Pow10(trim+n)
+	val = val / Pow10(trim)
+	return val
+
+}
+
 // MiddleSquare squares the input and then takes the numDigits digits from the middle of the result
 // The input must contain an even number of digits
 func MiddleSquare(seed, numDigits int) int {
 	if numDigits < 2 || numDigits > 10 || numDigits%2 != 0 {
 		panic("numdigits must be and event int between 2 and 10")
 	}
-	/*
-		if seed < 10 || CountNumDigits(seed)%2 != 0 {
-			panic("seed must have an even number of digits and be positive")
-		}
-	*/
 	return TakeMiddlen(seed*seed, numDigits)
 }
 
