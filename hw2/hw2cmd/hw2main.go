@@ -70,4 +70,11 @@ func main() {
 		fmt.Printf("For %3d people, same birthday probability is %4f \n", numPeople, hw2.BirthdayParadox(numPeople, numTrials))
 	}
 
+	fmt.Println("\n Compute Period Length: ")
+	fmt.Println(hw2.ComputePeriodLength([]int{1, 2, 3, 4, 5}))
+	fmt.Println(hw2.ComputePeriodLength([]int{1, 2, 3, 4, 1}))
+	fmt.Println(hw2.ComputePeriodLength([]int{1, 2, 3, 4, 4}))
+	fmt.Println(hw2.ComputePeriodLength([]int{1, 2, 3, 2, 4}))
+	fmt.Println(hw2.ComputePeriodLength([]int{1}))
+	fmt.Println(hw2.ComputePeriodLength([]int{}))
 }
