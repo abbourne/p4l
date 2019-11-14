@@ -32,13 +32,23 @@ func HasRepeat(is []int) bool {
 	return true
 }
 
+// Contains tells whether a contains x.
+// Has Repeat is very slow. When creating a sequence, simply checking whether the
+// element being added to the sequence already exists is enough to detect a cycle.
+func Contains(is []int, j int) bool {
+	for _, n := range is {
+		if j == n {
+			return true
+		}
+	}
+	return false
+}
+
 // CountNumDigits Take an integer and counts the number of digits. It ignores any minus sign
 // An eklegant 1 line solution, but very inefficient!
 func CountNumDigits(i int) int {
 	return len(strings.Trim(strconv.Itoa(i), "-"))
 }
-
-
 
 // TakeMiddlen Takes the middle n digits of val.
 func TakeMiddlen(val, n int) int {
@@ -117,8 +127,11 @@ func NewLinearCongruentialPRNG(seed, a, c, m int) func() int {
 func GenerateLinearCongruentialSequence(seed, a, c, m int) []int {
 	rs := []int{seed}
 	prng := NewLinearCongruentialPRNG(seed, a, c, m)
-	for !HasRepeat(rs) {
-		rs = append(rs, prng())
+	done := false
+	for !done {
+		val := prng()
+		done = Contains(rs, val)
+		rs = append(rs, val)
 	}
 	return rs
 }

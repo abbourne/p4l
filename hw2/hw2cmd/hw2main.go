@@ -116,6 +116,7 @@ func main() {
 		res := hw2.ComputePeriodLength(hw2.GenerateLinearCongruentialSequence(2, a, 0, m))
 		if res == m-1 {
 			fmt.Printf("LinearCongruentialPRNG: seed=2, a= %d, c=0, m=%d has period: %d\n", a, m, res)
+			cnt++
 		}
 	}
 	fmt.Printf("found %d LinearCongruentialPRNGs (2,a,0,%d) with period of %d\n", cnt, m, m-1)
