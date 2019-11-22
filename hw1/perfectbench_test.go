@@ -1,7 +1,7 @@
-package p4l1_test
+package hw1_test
 
 import (
-	"p4l1"
+	"p4l/hw1"
 	"testing"
 )
 
@@ -12,7 +12,7 @@ func benchmarkIsPerfect(n int, b *testing.B) {
 	b.Logf("Run IsPerfect benchmark. n= %v", n)
 	var res bool
 	for i := 0; i < b.N; i++ {
-		res, _ = p4l1.IsPerfect(n)
+		res = hw1.IsPerfect(n)
 	}
 	result = res
 }
@@ -21,7 +21,7 @@ func benchmarkFindPerfect(n int, b *testing.B) {
 	b.Logf("Run FindPerfect benchmark. n= %v", n)
 	var res []int
 	for i := 0; i < b.N; i++ {
-		res = p4l1.FindPerfect(n)
+		res = hw1.FindPerfect(n)
 	}
 	factors = res
 }
@@ -30,7 +30,7 @@ func benchmarkPrimeFactors(n int, b *testing.B) {
 	b.Logf("Run PrimeFactors benchmark. n= %v", n)
 	var res []int
 	for i := 0; i < b.N; i++ {
-		res = p4l1.PrimeFactors(n)
+		res = hw1.PrimeFactors(n)
 	}
 	factors = res
 }
@@ -39,7 +39,7 @@ func benchmarkPrimeFactors2(n int, b *testing.B) {
 	b.Logf("Run PrimeFactors2 benchmark. n= %v", n)
 	var res []int
 	for i := 0; i < b.N; i++ {
-		res = p4l1.PrimeFactors2(n)
+		res = hw1.PrimeFactors2(n)
 	}
 	factors = res
 }
@@ -66,7 +66,7 @@ func BenchmarkSieveOfEratosthenes(b *testing.B) {
 	var res []int
 	b.Logf("Run SieveOfEratosthenes n= %v", n)
 	for i := 0; i < b.N; i++ {
-		res = p4l1.SieveOfEratosthenes(n)
+		res = hw1.SieveOfEratosthenes(n)
 	}
 	factors = res
 

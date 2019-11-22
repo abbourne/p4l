@@ -1,17 +1,17 @@
 package main
 
 import (
-	"billsutil"
 	"fmt"
-	"p4l1"
+	"p4l/billsutil"
+	"p4l/hw1"
 )
 
 func main() {
 
-	fmt.Println(p4l1.FactArray(10))
-	fmt.Println(p4l1.FibArray(10))
+	fmt.Println(hw1.FactArray(10))
+	fmt.Println(hw1.FibArray(10))
 	fmt.Println(billsutil.MinArray([]int{42, 53, 9, 24, 38}))
-	fmt.Println(p4l1.GCDArray([]int{4, 8, 24}))
+	fmt.Println(hw1.GCDArray([]int{4, 8, 24}))
 
 	/*
 		println("Using CombDumb:")

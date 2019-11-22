@@ -1,6 +1,7 @@
 package billsutil
 
 import (
+	"log"
 	"math"
 	"time"
 )
@@ -13,11 +14,11 @@ import (
 //		}
 func TimeIt(start time.Time, name string) time.Duration {
 	elapsed := time.Since(start)
-	//log.Printf("%s took %s", name, elapsed)
+	log.Printf("%s took %s", name, elapsed)
 	return elapsed
 }
 
-// TimedFunc takes any finction that does not return a value and times it
+// TimedFunc takes any function that does not return a value and times it
 // The time taken is returned as a time.Duration
 func TimedFunc(fn func()) time.Duration {
 	start := time.Now()

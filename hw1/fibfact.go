@@ -1,4 +1,4 @@
-package p4l1
+package hw1
 
 // Fact calculates the factorial of an int
 // There are 2 big issues:

@@ -1,7 +1,7 @@
-package p4l1_test
+package hw1_test
 
 import (
-	"p4l1"
+	"p4l/hw1"
 	"testing"
 )
 
@@ -24,10 +24,10 @@ var perfectTests = []struct {
 func TestIsPerfect(t *testing.T) {
 	t.Log("Run IsPerfect tests")
 	for _, tc := range perfectTests {
-		isActual, sumActual := p4l1.IsPerfect(tc.n)
-		t.Logf("IsPerfect(%d): result: %t, factors: %v", tc.n, isActual, sumActual)
+		isActual := hw1.IsPerfect(tc.n)
+		t.Logf("IsPerfect(%d): result: %t", tc.n, isActual)
 		if isActual != tc.resBool {
-			t.Errorf("Result not equal to expected! IsPerfect(%d): result: %t, factors: %v", tc.n, isActual, sumActual)
+			t.Errorf("Result not equal to expected! IsPerfect(%d): result: %t", tc.n, isActual)
 		}
 
 	}

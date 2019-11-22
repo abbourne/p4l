@@ -1,7 +1,8 @@
-package p4l1
+package hw1
 
 import (
 	"math"
+	"math/bits"
 )
 
 // Use Package initiation to compute the prime sieve once
@@ -13,14 +14,112 @@ const maxprime = 33550336
 
 var sieveOfPrimes []int
 
-// IsPerfect takes an integer n, and returns true if it is a perfect number.
+// IsPerfect1 JiPi's Version from discussion board (JiPi and Henk Westerink)
+func IsPerfect1(n int) bool {
+	sum := 1
+	sqint := int(math.Sqrt(float64(n)) + 0.5)
+	if sqint*sqint == n {
+		sum += sqint
+	}
+	maxVal := math.Sqrt(float64(n))
+	for k := 2; float64(k) < maxVal; k++ {
+		if n%k == 0 {
+			sum += k + n/k
+			if sum > n {
+				return false
+			}
+		}
+	}
+	return (sum == n)
+}
+
+/*
+// Henk Westerin's Version from discussion board (JiPi and Henk Westerink)
+Function IsPerfect(n int) returning bool {
+
+	make slice divisors of lentgh 0
+
+   append divisors with 1
+
+   maxScan = n / 2; p = 2
+
+   while p < maxScan {
+
+	   if n % p == 0: {
+
+		   append divisors with p
+
+		   maxScan = n / p                                      // we already have all divisors beyond this number
+
+		   append divisors with maxScan    // as n can be divided by p, n / p is also a divisor
+
+	   }
+
+   increment p by 1
+
+   }
+
+   if sum(divisors) == n {
+
+	   return true
+
+   } else {
+
+	   return false
+
+   }
+
+}
+*/
+
+// IsPerfect based on John Cox's geometric progression algorithm
+func IsPerfect(n int) bool {
+	return n == SumOfFactors(n)
+}
+
+// SumOfFactors John D Cox's algorithm to compute the sum o factors
+// computes sum by using geometric progression.  The final sum will also
+// include the number N as a factor so that needs to be subtracted before returning
+func SumOfFactors(origN int) int {
+	// the overall formula is the product of all prime factors p occurring k times
+	// (p^(k+1) - 1) / (p - 1)
+
+	// ok, first initialize result with factors of two
+	numZeros := bits.TrailingZeros(uint(origN))
+	n := origN >> numZeros
+	result := ((2 << numZeros) - 1)
+
+	// ok, now account for odd numbers.
+	sqrtN := int(math.Sqrt(float64(n)))
+	for theOddNumber := 3; theOddNumber <= sqrtN; theOddNumber += 2 {
+		if n%theOddNumber == 0 {
+			sum := 1
+			term := 1
+			for (n % theOddNumber) == 0 {
+				n /= theOddNumber
+				term *= theOddNumber
+				sum += term
+			}
+			result *= sum
+			sqrtN = int(math.Sqrt(float64(n)))
+		}
+	}
+
+	// ok, now don't forget the last prime factor if there is one
+	if n > 1 {
+		result *= 1 + n
+	}
+	return result - origN
+}
+
+// IsPerfect2 takes an integer n, and returns true if it is a perfect number.
 // It also returns []int slice with all the factors of n
 // Is Perfect uses a modified trial division algorithm to factorize the input,
 // which is the most inefficient way of factoring. Some optimizations:
 //  - We only test to sqrt(n), and then when we find a factor we also add n/factor as a second factor
 //  - If a number does not divide n, we also know that all multiples of that number won't divide it either.
 //    so we keep a slice of "notDivisibleby" values, and check against them before we do the trial division
-func IsPerfect(n int) (bool, []int) {
+func IsPerfect2(n int) (bool, []int) {
 	bound := int(math.Sqrt(float64(n))) + 1
 	isNotDivisibleBy := make([]bool, bound+1)
 	factors := []int{1}
@@ -113,7 +212,7 @@ func PrimeFactors2(n int) []int {
 func FindPerfect(n int) []int {
 	var result []int
 	for i := 2; i <= n; i = i + 2 {
-		if res, _ := IsPerfect(i); res {
+		if res := IsPerfect(i); res {
 			result = append(result, i)
 		}
 	}

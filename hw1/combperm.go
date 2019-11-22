@@ -1,4 +1,4 @@
-package p4l1
+package hw1
 
 // PermDumb is a naive implementation to calculate the Permutation statistic.
 // It will fail when n is greatr than about 20, as fact(n) will overflow a 64 bit int

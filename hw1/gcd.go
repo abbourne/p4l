@@ -1,6 +1,6 @@
-package p4l1
+package hw1
 
-import "billsutil"
+import "p4l/billsutil"
 
 // TrivialGcd find the GCD of two ints in a very inefficient way
 func TrivialGcd(a, b int) int {
@@ -19,7 +19,7 @@ func GCDArray(nums []int) int {
 	smallest := billsutil.MinArray(nums)
 	gcd := -1
 	for i := 2; i <= smallest; i++ {
-		if billsutil.All(nums, func(v int) bool { return (v%i == 0) }) {
+		if billsutil.AllInt(nums, func(v int) bool { return (v%i == 0) }) {
 			gcd = i
 		}
 	}
