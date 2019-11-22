@@ -22,6 +22,7 @@ func main() {
 	fmt.Println(hw1.IsPerfect(498))
 	fmt.Println(hw1.IsPerfect(8128))
 	fmt.Println(hw1.IsPerfect(33550336))
+	fmt.Println(hw1.IsPerfect(8589869056))
 
 	fmt.Println(hw1.SumOfFactors(6))
 	fmt.Println(hw1.SumOfFactors(33550336))
