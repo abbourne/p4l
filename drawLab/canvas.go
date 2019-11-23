@@ -12,12 +12,11 @@ import (
 	"math"
 	"os"
 
-	"code.google.com/p/draw2d/draw2d"
-	//"github.com/llgcode/draw2d/draw2dkit"
+	"github.com/llgcode/draw2d/draw2dimg"
 )
 
 type Canvas struct {
-	gc     *draw2d.ImageGraphicContext
+	gc     *draw2dimg.GraphicContext
 	img    image.Image
 	width  int
 	height int
@@ -26,7 +25,7 @@ type Canvas struct {
 // Create a new canvas
 func CreateNewCanvas(w, h int) Canvas {
 	i := image.NewRGBA(image.Rect(0, 0, w, h))
-	gc := draw2d.NewGraphicContext(i)
+	gc := draw2dimg.NewGraphicContext(i)
 
 	gc.SetStrokeColor(image.Black)
 	gc.SetFillColor(image.White)

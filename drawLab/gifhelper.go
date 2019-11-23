@@ -1,11 +1,11 @@
 package main
 
 import (
+	"fmt"
+	"gogif"
 	"image"
 	"image/gif"
 	"os"
-	"gogif"
-	"fmt"
 )
 
 func Process(imglist []image.Image, filename string) {
@@ -24,7 +24,7 @@ func Process(imglist []image.Image, filename string) {
 	g.Image = make([]*image.Paletted, len(imglist))
 	g.LoopCount = 10
 
-	for i:=range(imglist) {
+	for i := range imglist {
 		g.Image[i] = ImageToPaletted(imglist[i])
 		g.Delay[i] = 1
 	}

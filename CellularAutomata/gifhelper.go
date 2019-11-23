@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
+	"gogif"
 	"image"
 	"image/gif"
 	"os"
-	"p4l/gogif"
 )
 
 // process() takes a slice of images and uses them to generate an animated GIF

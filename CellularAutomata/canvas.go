@@ -9,7 +9,7 @@ import (
 	"log"
 	"os"
 
-	"p4l/code.google.com/p/draw2d/draw2d"
+	"code.google.com/p/draw2d/draw2d"
 )
 
 type Canvas struct {
