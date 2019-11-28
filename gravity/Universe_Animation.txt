@@ -1,0 +1,2502 @@
+----START---
+     0,   Jupiter,{2e+09 2e+09 0},{0 0 0},{0 0 0}
+     0,        Io,{1.5784e+09 2e+09 0},{0 -17320 0},{0 0 0}
+     0,    Europa,{2e+09 2.6709e+09 0},{-13740 0 0},{0 0 0}
+     0,  Ganymede,{3.0704e+09 2e+09 0},{0 10870 0},{0 0 0}
+     0,  Callisto,{2e+09 1.173e+08 0},{8200 0 0},{0 0 0}
+   300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+   300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+   300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+   300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+   300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+   600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+   600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+   600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+   600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+   600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+   900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+   900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+   900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+   900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+   900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  1200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  1200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  1200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  1200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  1200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  1500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  1500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  1500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  1500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  1500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  1800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  1800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  1800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  1800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  1800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  2100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  2100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  2100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  2100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  2100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  2400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  2400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  2400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  2400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  2400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  2700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  2700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  2700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  2700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  2700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  3000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  3000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  3000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  3000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  3000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  3300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  3300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  3300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  3300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  3300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  3600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  3600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  3600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  3600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  3600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  3900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  3900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  3900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  3900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  3900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  4200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  4200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  4200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  4200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  4200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  4500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  4500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  4500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  4500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  4500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  4800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  4800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  4800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  4800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  4800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  5100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  5100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  5100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  5100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  5100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  5400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  5400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  5400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  5400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  5400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  5700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  5700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  5700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  5700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  5700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  6000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  6000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  6000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  6000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  6000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  6300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  6300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  6300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  6300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  6300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  6600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  6600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  6600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  6600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  6600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  6900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  6900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  6900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  6900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  6900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  7200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  7200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  7200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  7200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  7200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  7500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  7500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  7500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  7500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  7500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  7800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  7800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  7800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  7800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  7800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  8100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  8100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  8100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  8100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  8100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  8400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  8400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  8400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  8400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  8400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  8700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  8700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  8700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  8700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  8700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  9000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  9000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  9000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  9000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  9000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  9300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  9300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  9300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  9300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  9300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  9600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  9600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  9600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  9600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  9600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  9900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  9900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  9900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  9900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+  9900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 10200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 10200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 10200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 10200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 10200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 10500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 10500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 10500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 10500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 10500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 10800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 10800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 10800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 10800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 10800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 11100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 11100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 11100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 11100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 11100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 11400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 11400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 11400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 11400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 11400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 11700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 11700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 11700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 11700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 11700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 12000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 12000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 12000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 12000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 12000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 12300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 12300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 12300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 12300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 12300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 12600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 12600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 12600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 12600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 12600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 12900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 12900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 12900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 12900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 12900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 13200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 13200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 13200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 13200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 13200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 13500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 13500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 13500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 13500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 13500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 13800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 13800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 13800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 13800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 13800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 14100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 14100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 14100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 14100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 14100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 14400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 14400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 14400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 14400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 14400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 14700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 14700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 14700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 14700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 14700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 15000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 15000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 15000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 15000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 15000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 15300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 15300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 15300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 15300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 15300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 15600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 15600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 15600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 15600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 15600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 15900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 15900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 15900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 15900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 15900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 16200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 16200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 16200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 16200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 16200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 16500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 16500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 16500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 16500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 16500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 16800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 16800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 16800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 16800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 16800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 17100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 17100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 17100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 17100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 17100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 17400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 17400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 17400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 17400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 17400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 17700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 17700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 17700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 17700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 17700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 18000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 18000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 18000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 18000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 18000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 18300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 18300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 18300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 18300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 18300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 18600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 18600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 18600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 18600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 18600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 18900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 18900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 18900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 18900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 18900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 19200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 19200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 19200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 19200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 19200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 19500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 19500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 19500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 19500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 19500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 19800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 19800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 19800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 19800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 19800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 20100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 20100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 20100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 20100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 20100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 20400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 20400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 20400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 20400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 20400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 20700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 20700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 20700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 20700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 20700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 21000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 21000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 21000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 21000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 21000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 21300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 21300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 21300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 21300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 21300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 21600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 21600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 21600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 21600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 21600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 21900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 21900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 21900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 21900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 21900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 22200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 22200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 22200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 22200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 22200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 22500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 22500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 22500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 22500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 22500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 22800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 22800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 22800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 22800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 22800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 23100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 23100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 23100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 23100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 23100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 23400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 23400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 23400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 23400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 23400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 23700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 23700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 23700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 23700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 23700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 24000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 24000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 24000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 24000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 24000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 24300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 24300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 24300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 24300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 24300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 24600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 24600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 24600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 24600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 24600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 24900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 24900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 24900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 24900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 24900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 25200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 25200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 25200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 25200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 25200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 25500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 25500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 25500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 25500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 25500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 25800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 25800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 25800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 25800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 25800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 26100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 26100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 26100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 26100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 26100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 26400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 26400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 26400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 26400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 26400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 26700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 26700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 26700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 26700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 26700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 27000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 27000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 27000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 27000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 27000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 27300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 27300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 27300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 27300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 27300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 27600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 27600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 27600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 27600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 27600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 27900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 27900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 27900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 27900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 27900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 28200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 28200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 28200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 28200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 28200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 28500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 28500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 28500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 28500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 28500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 28800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 28800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 28800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 28800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 28800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 29100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 29100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 29100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 29100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 29100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 29400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 29400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 29400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 29400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 29400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 29700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 29700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 29700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 29700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 29700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 30000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 30000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 30000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 30000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 30000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 30300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 30300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 30300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 30300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 30300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 30600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 30600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 30600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 30600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 30600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 30900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 30900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 30900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 30900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 30900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 31200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 31200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 31200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 31200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 31200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 31500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 31500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 31500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 31500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 31500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 31800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 31800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 31800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 31800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 31800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 32100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 32100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 32100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 32100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 32100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 32400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 32400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 32400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 32400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 32400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 32700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 32700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 32700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 32700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 32700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 33000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 33000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 33000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 33000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 33000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 33300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 33300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 33300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 33300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 33300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 33600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 33600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 33600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 33600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 33600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 33900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 33900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 33900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 33900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 33900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 34200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 34200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 34200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 34200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 34200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 34500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 34500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 34500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 34500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 34500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 34800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 34800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 34800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 34800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 34800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 35100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 35100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 35100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 35100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 35100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 35400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 35400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 35400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 35400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 35400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 35700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 35700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 35700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 35700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 35700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 36000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 36000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 36000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 36000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 36000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 36300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 36300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 36300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 36300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 36300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 36600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 36600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 36600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 36600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 36600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 36900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 36900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 36900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 36900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 36900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 37200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 37200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 37200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 37200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 37200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 37500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 37500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 37500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 37500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 37500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 37800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 37800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 37800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 37800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 37800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 38100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 38100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 38100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 38100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 38100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 38400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 38400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 38400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 38400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 38400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 38700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 38700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 38700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 38700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 38700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 39000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 39000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 39000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 39000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 39000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 39300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 39300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 39300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 39300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 39300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 39600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 39600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 39600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 39600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 39600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 39900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 39900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 39900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 39900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 39900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 40200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 40200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 40200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 40200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 40200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 40500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 40500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 40500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 40500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 40500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 40800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 40800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 40800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 40800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 40800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 41100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 41100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 41100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 41100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 41100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 41400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 41400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 41400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 41400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 41400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 41700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 41700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 41700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 41700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 41700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 42000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 42000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 42000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 42000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 42000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 42300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 42300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 42300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 42300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 42300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 42600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 42600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 42600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 42600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 42600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 42900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 42900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 42900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 42900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 42900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 43200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 43200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 43200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 43200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 43200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 43500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 43500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 43500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 43500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 43500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 43800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 43800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 43800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 43800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 43800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 44100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 44100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 44100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 44100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 44100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 44400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 44400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 44400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 44400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 44400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 44700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 44700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 44700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 44700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 44700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 45000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 45000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 45000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 45000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 45000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 45300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 45300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 45300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 45300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 45300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 45600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 45600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 45600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 45600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 45600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 45900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 45900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 45900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 45900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 45900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 46200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 46200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 46200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 46200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 46200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 46500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 46500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 46500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 46500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 46500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 46800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 46800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 46800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 46800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 46800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 47100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 47100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 47100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 47100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 47100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 47400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 47400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 47400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 47400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 47400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 47700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 47700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 47700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 47700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 47700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 48000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 48000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 48000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 48000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 48000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 48300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 48300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 48300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 48300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 48300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 48600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 48600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 48600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 48600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 48600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 48900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 48900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 48900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 48900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 48900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 49200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 49200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 49200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 49200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 49200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 49500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 49500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 49500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 49500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 49500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 49800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 49800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 49800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 49800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 49800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 50100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 50100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 50100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 50100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 50100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 50400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 50400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 50400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 50400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 50400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 50700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 50700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 50700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 50700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 50700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 51000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 51000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 51000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 51000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 51000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 51300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 51300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 51300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 51300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 51300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 51600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 51600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 51600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 51600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 51600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 51900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 51900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 51900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 51900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 51900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 52200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 52200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 52200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 52200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 52200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 52500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 52500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 52500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 52500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 52500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 52800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 52800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 52800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 52800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 52800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 53100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 53100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 53100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 53100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 53100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 53400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 53400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 53400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 53400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 53400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 53700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 53700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 53700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 53700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 53700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 54000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 54000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 54000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 54000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 54000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 54300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 54300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 54300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 54300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 54300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 54600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 54600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 54600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 54600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 54600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 54900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 54900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 54900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 54900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 54900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 55200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 55200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 55200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 55200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 55200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 55500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 55500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 55500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 55500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 55500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 55800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 55800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 55800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 55800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 55800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 56100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 56100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 56100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 56100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 56100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 56400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 56400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 56400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 56400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 56400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 56700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 56700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 56700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 56700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 56700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 57000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 57000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 57000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 57000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 57000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 57300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 57300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 57300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 57300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 57300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 57600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 57600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 57600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 57600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 57600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 57900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 57900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 57900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 57900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 57900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 58200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 58200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 58200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 58200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 58200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 58500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 58500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 58500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 58500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 58500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 58800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 58800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 58800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 58800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 58800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 59100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 59100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 59100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 59100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 59100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 59400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 59400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 59400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 59400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 59400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 59700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 59700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 59700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 59700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 59700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 60000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 60000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 60000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 60000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 60000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 60300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 60300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 60300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 60300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 60300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 60600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 60600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 60600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 60600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 60600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 60900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 60900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 60900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 60900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 60900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 61200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 61200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 61200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 61200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 61200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 61500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 61500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 61500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 61500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 61500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 61800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 61800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 61800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 61800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 61800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 62100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 62100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 62100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 62100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 62100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 62400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 62400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 62400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 62400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 62400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 62700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 62700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 62700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 62700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 62700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 63000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 63000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 63000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 63000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 63000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 63300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 63300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 63300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 63300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 63300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 63600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 63600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 63600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 63600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 63600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 63900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 63900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 63900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 63900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 63900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 64200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 64200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 64200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 64200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 64200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 64500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 64500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 64500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 64500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 64500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 64800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 64800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 64800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 64800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 64800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 65100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 65100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 65100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 65100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 65100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 65400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 65400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 65400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 65400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 65400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 65700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 65700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 65700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 65700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 65700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 66000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 66000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 66000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 66000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 66000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 66300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 66300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 66300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 66300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 66300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 66600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 66600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 66600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 66600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 66600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 66900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 66900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 66900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 66900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 66900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 67200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 67200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 67200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 67200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 67200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 67500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 67500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 67500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 67500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 67500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 67800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 67800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 67800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 67800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 67800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 68100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 68100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 68100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 68100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 68100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 68400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 68400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 68400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 68400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 68400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 68700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 68700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 68700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 68700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 68700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 69000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 69000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 69000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 69000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 69000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 69300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 69300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 69300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 69300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 69300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 69600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 69600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 69600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 69600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 69600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 69900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 69900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 69900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 69900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 69900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 70200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 70200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 70200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 70200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 70200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 70500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 70500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 70500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 70500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 70500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 70800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 70800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 70800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 70800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 70800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 71100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 71100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 71100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 71100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 71100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 71400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 71400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 71400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 71400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 71400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 71700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 71700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 71700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 71700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 71700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 72000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 72000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 72000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 72000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 72000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 72300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 72300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 72300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 72300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 72300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 72600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 72600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 72600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 72600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 72600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 72900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 72900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 72900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 72900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 72900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 73200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 73200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 73200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 73200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 73200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 73500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 73500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 73500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 73500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 73500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 73800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 73800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 73800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 73800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 73800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 74100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 74100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 74100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 74100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 74100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 74400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 74400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 74400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 74400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 74400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 74700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 74700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 74700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 74700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 74700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 75000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 75000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 75000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 75000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 75000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 75300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 75300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 75300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 75300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 75300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 75600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 75600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 75600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 75600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 75600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 75900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 75900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 75900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 75900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 75900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 76200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 76200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 76200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 76200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 76200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 76500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 76500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 76500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 76500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 76500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 76800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 76800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 76800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 76800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 76800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 77100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 77100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 77100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 77100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 77100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 77400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 77400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 77400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 77400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 77400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 77700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 77700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 77700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 77700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 77700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 78000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 78000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 78000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 78000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 78000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 78300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 78300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 78300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 78300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 78300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 78600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 78600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 78600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 78600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 78600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 78900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 78900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 78900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 78900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 78900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 79200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 79200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 79200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 79200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 79200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 79500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 79500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 79500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 79500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 79500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 79800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 79800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 79800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 79800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 79800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 80100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 80100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 80100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 80100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 80100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 80400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 80400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 80400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 80400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 80400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 80700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 80700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 80700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 80700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 80700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 81000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 81000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 81000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 81000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 81000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 81300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 81300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 81300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 81300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 81300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 81600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 81600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 81600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 81600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 81600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 81900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 81900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 81900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 81900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 81900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 82200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 82200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 82200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 82200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 82200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 82500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 82500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 82500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 82500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 82500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 82800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 82800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 82800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 82800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 82800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 83100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 83100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 83100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 83100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 83100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 83400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 83400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 83400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 83400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 83400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 83700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 83700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 83700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 83700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 83700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 84000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 84000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 84000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 84000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 84000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 84300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 84300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 84300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 84300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 84300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 84600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 84600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 84600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 84600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 84600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 84900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 84900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 84900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 84900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 84900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 85200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 85200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 85200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 85200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 85200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 85500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 85500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 85500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 85500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 85500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 85800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 85800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 85800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 85800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 85800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 86100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 86100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 86100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 86100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 86100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 86400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 86400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 86400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 86400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 86400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 86700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 86700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 86700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 86700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 86700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 87000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 87000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 87000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 87000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 87000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 87300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 87300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 87300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 87300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 87300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 87600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 87600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 87600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 87600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 87600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 87900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 87900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 87900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 87900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 87900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 88200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 88200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 88200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 88200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 88200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 88500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 88500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 88500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 88500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 88500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 88800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 88800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 88800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 88800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 88800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 89100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 89100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 89100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 89100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 89100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 89400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 89400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 89400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 89400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 89400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 89700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 89700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 89700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 89700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 89700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 90000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 90000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 90000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 90000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 90000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 90300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 90300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 90300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 90300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 90300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 90600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 90600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 90600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 90600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 90600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 90900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 90900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 90900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 90900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 90900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 91200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 91200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 91200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 91200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 91200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 91500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 91500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 91500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 91500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 91500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 91800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 91800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 91800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 91800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 91800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 92100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 92100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 92100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 92100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 92100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 92400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 92400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 92400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 92400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 92400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 92700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 92700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 92700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 92700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 92700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 93000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 93000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 93000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 93000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 93000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 93300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 93300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 93300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 93300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 93300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 93600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 93600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 93600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 93600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 93600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 93900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 93900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 93900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 93900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 93900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 94200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 94200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 94200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 94200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 94200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 94500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 94500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 94500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 94500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 94500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 94800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 94800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 94800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 94800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 94800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 95100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 95100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 95100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 95100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 95100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 95400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 95400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 95400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 95400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 95400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 95700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 95700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 95700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 95700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 95700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 96000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 96000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 96000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 96000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 96000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 96300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 96300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 96300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 96300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 96300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 96600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 96600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 96600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 96600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 96600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 96900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 96900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 96900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 96900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 96900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 97200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 97200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 97200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 97200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 97200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 97500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 97500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 97500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 97500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 97500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 97800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 97800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 97800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 97800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 97800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 98100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 98100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 98100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 98100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 98100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 98400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 98400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 98400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 98400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 98400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 98700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 98700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 98700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 98700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 98700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 99000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 99000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 99000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 99000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 99000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 99300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 99300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 99300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 99300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 99300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 99600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 99600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 99600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 99600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 99600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 99900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 99900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 99900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 99900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+ 99900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+100200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+100200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+100200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+100200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+100200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+100500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+100500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+100500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+100500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+100500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+100800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+100800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+100800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+100800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+100800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+101100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+101100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+101100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+101100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+101100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+101400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+101400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+101400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+101400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+101400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+101700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+101700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+101700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+101700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+101700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+102000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+102000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+102000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+102000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+102000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+102300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+102300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+102300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+102300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+102300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+102600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+102600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+102600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+102600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+102600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+102900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+102900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+102900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+102900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+102900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+103200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+103200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+103200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+103200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+103200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+103500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+103500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+103500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+103500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+103500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+103800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+103800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+103800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+103800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+103800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+104100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+104100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+104100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+104100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+104100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+104400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+104400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+104400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+104400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+104400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+104700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+104700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+104700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+104700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+104700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+105000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+105000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+105000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+105000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+105000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+105300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+105300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+105300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+105300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+105300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+105600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+105600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+105600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+105600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+105600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+105900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+105900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+105900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+105900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+105900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+106200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+106200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+106200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+106200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+106200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+106500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+106500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+106500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+106500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+106500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+106800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+106800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+106800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+106800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+106800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+107100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+107100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+107100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+107100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+107100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+107400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+107400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+107400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+107400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+107400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+107700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+107700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+107700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+107700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+107700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+108000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+108000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+108000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+108000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+108000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+108300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+108300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+108300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+108300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+108300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+108600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+108600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+108600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+108600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+108600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+108900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+108900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+108900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+108900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+108900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+109200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+109200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+109200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+109200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+109200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+109500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+109500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+109500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+109500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+109500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+109800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+109800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+109800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+109800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+109800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+110100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+110100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+110100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+110100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+110100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+110400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+110400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+110400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+110400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+110400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+110700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+110700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+110700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+110700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+110700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+111000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+111000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+111000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+111000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+111000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+111300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+111300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+111300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+111300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+111300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+111600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+111600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+111600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+111600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+111600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+111900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+111900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+111900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+111900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+111900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+112200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+112200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+112200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+112200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+112200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+112500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+112500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+112500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+112500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+112500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+112800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+112800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+112800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+112800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+112800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+113100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+113100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+113100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+113100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+113100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+113400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+113400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+113400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+113400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+113400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+113700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+113700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+113700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+113700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+113700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+114000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+114000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+114000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+114000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+114000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+114300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+114300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+114300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+114300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+114300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+114600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+114600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+114600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+114600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+114600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+114900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+114900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+114900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+114900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+114900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+115200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+115200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+115200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+115200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+115200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+115500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+115500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+115500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+115500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+115500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+115800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+115800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+115800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+115800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+115800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+116100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+116100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+116100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+116100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+116100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+116400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+116400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+116400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+116400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+116400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+116700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+116700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+116700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+116700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+116700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+117000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+117000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+117000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+117000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+117000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+117300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+117300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+117300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+117300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+117300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+117600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+117600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+117600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+117600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+117600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+117900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+117900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+117900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+117900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+117900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+118200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+118200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+118200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+118200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+118200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+118500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+118500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+118500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+118500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+118500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+118800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+118800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+118800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+118800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+118800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+119100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+119100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+119100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+119100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+119100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+119400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+119400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+119400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+119400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+119400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+119700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+119700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+119700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+119700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+119700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+120000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+120000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+120000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+120000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+120000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+120300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+120300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+120300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+120300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+120300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+120600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+120600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+120600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+120600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+120600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+120900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+120900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+120900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+120900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+120900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+121200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+121200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+121200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+121200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+121200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+121500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+121500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+121500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+121500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+121500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+121800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+121800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+121800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+121800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+121800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+122100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+122100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+122100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+122100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+122100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+122400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+122400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+122400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+122400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+122400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+122700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+122700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+122700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+122700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+122700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+123000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+123000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+123000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+123000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+123000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+123300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+123300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+123300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+123300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+123300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+123600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+123600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+123600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+123600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+123600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+123900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+123900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+123900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+123900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+123900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+124200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+124200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+124200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+124200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+124200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+124500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+124500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+124500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+124500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+124500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+124800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+124800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+124800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+124800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+124800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+125100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+125100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+125100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+125100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+125100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+125400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+125400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+125400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+125400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+125400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+125700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+125700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+125700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+125700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+125700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+126000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+126000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+126000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+126000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+126000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+126300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+126300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+126300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+126300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+126300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+126600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+126600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+126600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+126600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+126600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+126900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+126900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+126900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+126900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+126900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+127200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+127200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+127200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+127200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+127200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+127500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+127500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+127500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+127500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+127500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+127800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+127800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+127800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+127800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+127800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+128100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+128100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+128100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+128100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+128100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+128400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+128400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+128400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+128400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+128400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+128700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+128700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+128700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+128700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+128700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+129000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+129000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+129000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+129000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+129000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+129300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+129300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+129300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+129300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+129300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+129600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+129600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+129600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+129600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+129600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+129900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+129900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+129900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+129900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+129900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+130200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+130200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+130200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+130200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+130200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+130500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+130500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+130500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+130500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+130500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+130800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+130800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+130800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+130800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+130800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+131100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+131100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+131100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+131100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+131100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+131400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+131400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+131400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+131400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+131400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+131700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+131700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+131700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+131700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+131700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+132000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+132000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+132000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+132000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+132000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+132300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+132300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+132300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+132300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+132300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+132600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+132600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+132600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+132600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+132600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+132900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+132900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+132900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+132900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+132900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+133200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+133200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+133200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+133200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+133200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+133500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+133500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+133500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+133500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+133500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+133800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+133800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+133800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+133800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+133800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+134100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+134100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+134100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+134100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+134100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+134400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+134400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+134400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+134400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+134400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+134700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+134700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+134700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+134700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+134700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+135000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+135000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+135000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+135000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+135000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+135300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+135300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+135300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+135300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+135300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+135600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+135600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+135600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+135600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+135600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+135900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+135900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+135900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+135900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+135900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+136200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+136200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+136200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+136200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+136200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+136500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+136500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+136500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+136500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+136500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+136800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+136800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+136800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+136800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+136800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+137100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+137100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+137100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+137100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+137100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+137400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+137400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+137400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+137400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+137400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+137700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+137700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+137700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+137700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+137700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+138000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+138000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+138000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+138000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+138000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+138300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+138300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+138300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+138300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+138300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+138600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+138600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+138600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+138600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+138600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+138900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+138900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+138900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+138900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+138900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+139200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+139200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+139200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+139200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+139200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+139500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+139500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+139500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+139500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+139500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+139800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+139800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+139800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+139800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+139800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+140100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+140100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+140100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+140100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+140100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+140400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+140400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+140400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+140400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+140400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+140700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+140700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+140700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+140700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+140700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+141000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+141000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+141000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+141000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+141000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+141300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+141300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+141300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+141300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+141300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+141600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+141600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+141600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+141600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+141600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+141900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+141900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+141900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+141900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+141900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+142200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+142200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+142200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+142200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+142200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+142500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+142500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+142500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+142500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+142500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+142800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+142800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+142800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+142800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+142800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+143100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+143100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+143100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+143100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+143100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+143400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+143400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+143400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+143400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+143400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+143700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+143700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+143700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+143700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+143700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+144000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+144000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+144000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+144000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+144000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+144300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+144300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+144300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+144300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+144300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+144600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+144600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+144600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+144600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+144600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+144900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+144900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+144900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+144900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+144900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+145200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+145200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+145200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+145200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+145200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+145500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+145500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+145500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+145500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+145500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+145800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+145800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+145800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+145800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+145800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+146100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+146100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+146100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+146100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+146100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+146400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+146400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+146400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+146400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+146400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+146700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+146700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+146700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+146700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+146700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+147000,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+147000,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+147000,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+147000,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+147000,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+147300,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+147300,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+147300,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+147300,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+147300,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+147600,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+147600,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+147600,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+147600,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+147600,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+147900,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+147900,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+147900,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+147900,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+147900,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+148200,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+148200,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+148200,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+148200,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+148200,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+148500,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+148500,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+148500,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+148500,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+148500,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+148800,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+148800,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+148800,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+148800,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+148800,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+149100,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+149100,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+149100,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+149100,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+149100,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+149400,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+149400,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+149400,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+149400,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+149400,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+149700,   Jupiter,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+149700,        Io,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+149700,    Europa,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+149700,  Ganymede,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+149700,  Callisto,{NaN NaN NaN},{NaN NaN NaN},{NaN NaN NaN}
+----END---
